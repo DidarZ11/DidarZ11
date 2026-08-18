@@ -43,10 +43,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DidarZ11&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=888888&hide_title=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=DidarZ11&theme=transparent&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=888888&dates=888888&sideNums=888888&currStreakNum=8A2BE2" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidarZ11&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=888888" />
 
 </div>
 
